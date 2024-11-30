@@ -1,0 +1,19 @@
+{
+  "name": "prettierdate",
+  "version": "1.0.1",
+  "description": "format date to pretty visible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurgnll/prettierdate.git"
+  },
+  "author": "onurgnll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurgnll/prettierdate/issues"
+  },
+  "homepage": "https://github.com/onurgnll/prettierdate#readme"
+}
